@@ -1,3 +1,3 @@
 # SpatialAM-21
 
-### Git Repository for the course Spatial Analyisis and Modeling@UNITO
+### Git Repository for the course Spatial Analysis and Modeling@UNITO
